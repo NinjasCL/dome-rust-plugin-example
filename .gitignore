@@ -1,0 +1,6 @@
+/target
+test.dylib
+test.dll
+test.so
+DOME-out.log
+.DS_Store
